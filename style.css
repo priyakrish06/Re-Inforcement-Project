@@ -1,0 +1,217 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.logo{
+    display:block;
+    position: relative;
+    padding-left: 50px;
+    padding: 3px;
+    margin: 3px;
+
+}
+.navbar{
+  
+  background-color: rgb(235, 165, 165);
+  
+}
+.search{
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+  padding: 20px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  
+
+}
+.search-input{
+  width: 90%;
+  padding: 10px ;
+  font-size: 16px;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.camera-button{
+  padding: 10px 20px;
+  border: none;
+  background-color: white;
+  color: brown;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+.mic-button{
+  padding: 10px 20px;
+  border: none;
+  background-color: white;
+  color: brown;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+.search-button{
+  padding: 10px 20px;
+  border: none;
+  background-color: white;
+  color: brown;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 10px;
+}
+.search-button:hover{
+  background-color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    
+    
+  }
+  
+  li {
+    float: left;
+    
+  }
+  
+  li a {
+    display: block;
+    color: brown;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .navbar-2{
+  padding: 2px;
+  margin-left: 30px;
+  
+  }
+  section{
+    padding: 20px;
+    margin: 10px;
+  }
+  h2{
+    text-align: center;
+    color: brown;
+  }
+  p{
+    text-align: center;
+  }
+  .container-2{
+    float:inherit;
+    margin: 50px;
+  }
+  .jewel{
+    padding: 20px;
+    margin: 30px;
+  }
+  h5{
+    text-align: center;
+    color: brown;
+  }
+  h6 a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+  }
+.new{
+  margin: 80px;
+
+}
+.new-2{
+  margin: 80px;
+}
+.top{
+  padding: 40px;
+}
+.linelogo-1{
+  margin: 0;
+  padding: 0;
+}
+.new-3{
+  margin: 80px;
+ 
+}
+.Gender{
+  padding: 30px;
+}
+.glow-img{
+  padding: 40px;
+  margin: 40px;
+}
+.video{
+  padding: 40px;
+  margin: 40px;
+}
+.flex-container{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: brown;
+}
+.flex-box{
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(beige,white);
+  text-align: center;
+  line-height: 200px;
+  border-radius: 20px;
+  margin: 10px;
+ 
+}
+.icons{
+  padding: 10px;
+  position: relative;
+  float: right;
+  bottom: 70%;
+  right: 10%;
+}
+.container-9{
+  background-color: rgb(238, 149, 149);
+  width: 1200px;
+  height: 500px;
+}
+.foot{
+  padding: 40px;
+  
+}
+.can{
+  color: black;
+  justify-content: space-around;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+.msg{
+  position: relative;
+  float: left;
+  bottom: 35px;
+  gap: 5px;
+  
+}
+
+.qr{
+  position: relative;
+  float: right;
+  bottom: 400px;
+  margin-right: 40px;
+}
+h3{
+  margin-bottom: 10px;
+}
+.follow{
+  position: relative;
+  float: right;
+  bottom: 150px;
+  margin-right: 150px;
+}
+.ion{
+  width: 40px;
+  height: 40px;
+}
